@@ -1,0 +1,15 @@
+#input{
+
+    width: 30%;
+    margin-top: 15%;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+    margin-top: 5%;
+}

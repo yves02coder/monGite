@@ -1,0 +1,20 @@
+body{
+   /* background-image: url("https://www.labresse.net/medias/images/prestations/multitailles/640x480_chalet-lc015-hautes-vosges-40922.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;*/
+    background-color: #5fa4b5;
+}
+h1
+{
+    color: #cc471f;
+    font-size: 60px;
+}
+form{
+
+}
+
+
+#roule{
+    margin-top: 2%;
+}
